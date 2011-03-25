@@ -7,7 +7,7 @@ body {
 	width:100%;
 	color:#cccccc;
 	font:normal 12px/1.5em "Liberation sans", Arial, Helvetica, sans-serif;
-	background:#555 url(../images/main_bg.gif) repeat-x left top;
+	background:#555 url(../images/main_bg2.gif) repeat-x left top;
 }
 html, .main {
 	padding:0;
@@ -50,9 +50,9 @@ a {
 	width:960px;
 }
 .logo {
-	width: 261px;
-	height: 141px;
-	background-image: url(../images/logo.jpg);
+	width: 339px;
+	height: 134px;
+	background-image: url(../images/logo2.jpg);
 	background-repeat: no-repeat;
 	padding:0;
 	margin-top: 10px;
