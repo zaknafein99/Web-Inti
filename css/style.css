@@ -160,13 +160,13 @@ h1 small {
 }
 .menu_nav ul li.active a{
 	text-decoration:none;
-	color:#fff;
-	background:#ffc53c;
+	color:#000;
+	background:#fff;
 }
 .menu_nav ul li a:hover {
 	text-decoration:none;
-	color:#fff;
-	background:#e2ae34;
+	color:#000;
+	background:#fff;
 }
 .content {
 	padding:0;
@@ -469,7 +469,7 @@ ol li .send {
 	float:left;
 }
 .footer {
-	background:#ffc63d url(../images/footer_bg.gif) repeat-x left bottom;
+	background:#ffc63d url(../images/footer_bg2.gif) repeat-x left bottom;
 }
 .footer_resize {
 	margin:0 auto;
